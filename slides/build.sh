@@ -1,0 +1,1 @@
+LANG="C.utf8" lualatex -shell-escape main.tex
